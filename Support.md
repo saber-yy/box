@@ -21,9 +21,9 @@
 ## 金花小盒 页面/操作预览
 
 ![image](https://github.com/saberShenFeng/box/blob/master/images/6.6-0.png)
-![image](https://github.com/saberShenFeng/box/blob/master/images/6.6-1.png)
-![image](https://github.com/saberShenFeng/box/blob/master/images/6.6-2.png)
-![image](https://github.com/saberShenFeng/box/blob/master/images/6.6-3.png)
-![image](https://github.com/saberShenFeng/box/blob/master/images/6.6-4.png)
+![image](https://github.com/saberShenFeng/box/blob/master/images/6.6-1.jpg)
+![image](https://github.com/saberShenFeng/box/blob/master/images/6.6-2.jpg)
+![image](https://github.com/saberShenFeng/box/blob/master/images/6.6-3.jpg)
+![image](https://github.com/saberShenFeng/box/blob/master/images/6.6-4.jpg)
 
 
